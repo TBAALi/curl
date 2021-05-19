@@ -257,7 +257,7 @@ January: Added support for RTSP
 
 February: security vulnerability: libcurl data callback excessive length
 
-March: The project switched over to use git (hosted by github) instead of CVS
+March: The project switched over to use git (hosted by GitHub) instead of CVS
 for source code control
 
 May: Added support for RTMP
@@ -404,5 +404,11 @@ April: added the cyassl backend (later renamed to WolfSSL)
 
  August: zstd support
 
- November: the website moves to www.curl.se. The website serves 10TB data
- monthly.
+ November: the website moves to curl.se. The website serves 10TB data monthly.
+
+2021
+----
+
+ February 3: curl 7.75.0 ships with support for Hyper is a HTTP backend
+
+ March 31: curl 7.76.0 ships with support for rustls
